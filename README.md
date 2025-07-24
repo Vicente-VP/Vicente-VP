@@ -79,7 +79,7 @@ I'm Vicente, a developer from Brazil. My goal is be a data scientist, at the mom
 <hr>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JorgeTerence&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 45%;" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JorgeTerence&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vicente-VP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vicente-VP&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 45%;" />
 </div>
 
