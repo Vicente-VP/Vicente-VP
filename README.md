@@ -72,9 +72,10 @@ I'm Vicente, a developer from Brazil. My goal is be a data scientist, at the mom
 
 
 ### 🗿 Currently Learning
-- JavaScript
+- Machine Learning
 - Python
 - Web Development
+- Data Science and analytics
 
 <hr>
 
